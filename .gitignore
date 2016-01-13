@@ -1,3 +1,9 @@
+*~
+#*#
 build/*
 devel/*
 .catkin_tools/*
+.rosinstall
+src/moveit_pr2/*
+src/pr2_moveit_generated/*
+src/marsarm_test/*
